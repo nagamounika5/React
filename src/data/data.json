@@ -1,0 +1,32 @@
+{
+    "profiles":[
+        {
+            "basicInformation":{
+                "name":"G Naga Mounika",
+                "role":"Multi Skill Trainer",
+                "email":"gnmounika5@gmail.com",
+                "mobile":"918500943922"
+            },
+            "education":[
+                {
+                    "degree":"M.Tech (CSE)",
+                    "institute":"VIT University"
+                },
+                {
+                    "degree":"B.Tech (CSE)",
+                    "institute":"GVRS Engineering college"
+                },
+                {
+                    
+                    "degree":"Inter",
+                    "institute":"NRI Jr.college"
+                },
+                {
+                    
+                    "degree":"SSC",
+                    "institute":"Nagarjuna Public School"
+                }
+            ]
+        }
+    ]
+}
